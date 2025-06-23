@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container">
+    <h1>Welcome to EventEasePOE</h1>
+    <p>Manage your events, venues, and bookings with ease.</p>
+
+    <h2>Upcoming Events</h2>
+    <div class="row">
+        @foreach (var eventItem in ViewData["Events"] as List<Event>)
+        {
+            <div class="col-md-4">
+                <div class="card">
+                    
+                    <div class="card-body">
+                        <h5 class="card-title">@eventItem.EventName</h5>
+                        <p class="card-text">Venue: @eventItem.Venue.VenueName</p>
+                        <p class="card-text">Date: @eventItem.EventDate.ToString("MM/dd/yyyy")</p>
+                        <a href="@Url.Action("Details", "Events", new { id = eventItem.EventId })" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <h2>Available Venues</h2>
+    <div class="row">
+        @foreach (var venue in ViewData["Venues"] as List<Venue>)
+        {
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="@venue.ImageUrl" class="card-img-top" alt="@venue.VenueName">
+                    <div class="card-body">
+                        <h5 class="card-title">@venue.VenueName</h5>
+                        <p class="card-text">Location: @venue.Location</p>
+                        <p class="card-text">Capacity: @venue.Capacity</p>
+                        <a href="@Url.Action("Details", "Venues", new { id = venue.VenueId })" class="btn btn-primary">View Venue</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <h2>Current Bookings</h2>
+    <div class="row">
+        @foreach (var booking in ViewData["Bookings"] as List<Booking>)
+        {
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Booking for Event: @booking.Event.EventName</h5>
+                        <p class="card-text">Booking Date: @booking.BookingDate.ToString("MM/dd/yyyy")</p>
+                        <p class="card-text">Customer: @booking.CustomerName</p>
+                        <a href="@Url.Action("Details", "Bookings", new { id = booking.BookingId })" class="btn btn-primary">View Booking</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

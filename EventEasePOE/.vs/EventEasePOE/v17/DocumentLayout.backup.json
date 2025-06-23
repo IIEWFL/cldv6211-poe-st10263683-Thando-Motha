@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:models\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:views\\venues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:views\\venues\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:controllers\\venuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\views\\venues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:views\\venues\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|c:\\users\\27684\\desktop\\cldv6211-part-2-st10263683-thando-motha\\eventeasepoe\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB551B6-D996-4A01-AA36-1E817E42FF29}|EventEasePOE.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:32:33.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:36:47.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:32:12.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Models\\EventType.cs",
+              "RelativeDocumentMoniker": "Models\\EventType.cs",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Models\\EventType.cs",
+              "RelativeToolTip": "Models\\EventType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:30:44.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Models\\Venue.cs",
+              "RelativeToolTip": "Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:32:52.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:46:40.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Views\\Venues\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Create.cshtml",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Views\\Venues\\Create.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Create.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T19:47:35.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Views\\Venues\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Index.cshtml",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Views\\Venues\\Index.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T14:53:24.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VenuesController.cs",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Controllers\\VenuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenuesController.cs",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Controllers\\VenuesController.cs",
+              "RelativeToolTip": "Controllers\\VenuesController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:26:19.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T18:39:14.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Views\\Venues\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venues\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Views\\Venues\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Venues\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T19:55:37.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:30:50.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:32:40.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T17:43:26.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-07T19:06:16.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\27684\\Desktop\\cldv6211-part-2-st10263683-Thando-Motha\\EventEasePOE\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Controllers\\EventsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:27:00.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
